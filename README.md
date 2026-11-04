@@ -2,6 +2,7 @@
 
 科技政策比賽 FlowRoad 2035 影片中的程式動畫。
 
+- **全片試作（約 85 秒，全部程式生成）**：[全片_試作.mp4](全片_試作.mp4)
 - 片段 2｜SmartCross 動態斑馬線
   - 互動版（原音效）：https://a0966568571-bot.github.io/flowroad-2035/片段2.html
   - 互動版（新腳步聲）：https://a0966568571-bot.github.io/flowroad-2035/片段2_新音效.html
