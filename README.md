@@ -2,9 +2,12 @@
 
 科技政策比賽 FlowRoad 2035 影片中的程式動畫。
 
-- 片段 2｜SmartCross 動態斑馬線（互動版）：https://a0966568571-bot.github.io/flowroad-2035/片段2.html
-  - 影片檔：[片段2_有音效.mp4](片段2_有音效.mp4)
-- 片段 4｜救護車優先通行（互動版）：https://a0966568571-bot.github.io/flowroad-2035/
-  - 影片檔：[片段4_有音效.mp4](片段4_有音效.mp4)
+- 片段 2｜SmartCross 動態斑馬線
+  - 互動版（原音效）：https://a0966568571-bot.github.io/flowroad-2035/片段2.html
+  - 互動版（新腳步聲）：https://a0966568571-bot.github.io/flowroad-2035/片段2_新音效.html
+  - 影片：[片段2_字幕_新音效.mp4](片段2_字幕_新音效.mp4)、[片段2_有音效.mp4](片段2_有音效.mp4)
+- 片段 4｜救護車優先通行
+  - 互動版：https://a0966568571-bot.github.io/flowroad-2035/
+  - 影片：[片段4_字幕_有音效.mp4](片段4_字幕_有音效.mp4)、[片段4_有音效.mp4](片段4_有音效.mp4)
 
 網址後面加 `?clean` 會隱藏按鈕並自動播放，錄影時按空白鍵重播。
